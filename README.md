@@ -65,7 +65,7 @@ Enchanting - Nerubian Cloaks
 
 Note: Target recipe is the cloak enchant Chant of Winged Grace which is learned from the severed threads pact.  Recommend you prioritize farming rep in Azj-Kahet for the three members of the pact.  The avoidance and leech bracer enchants are available from vendors in the city of threads but we likely wont have the acuity to purchase them right away, speed is learned from the knowledge wheel.  The lesser bracer enchants are taught by the enchanting trainer.
 
-Jewelcarfting - Stat Gems
+Jewelcrafting - Stat Gems
 1. Gemcutting, full wheel
 2. Sapphire, Ruby, Onyx and Emerald, 5 points in each to get to the +3 blasphemite skill cutting node
 3. Continue Sapphire, Ruby, Onyx and Emerald wheels, your choice
@@ -238,7 +238,7 @@ Tailor - Duskweave, spell thread focus to start
 3. Quality Fabric, 10/30
 4. Spellthread, 10/30
 
-Note: This will give us the most skill points towards the spellthreads unlocked by duskweave tailoring to let us craft it for raiders. however it is not ideal for crafting the gear unlocked in those wheels.  If you're wanting to stick with tailoring as a guild crafter, let's plan beyond the first 80 points, there is potentially very good gear unlocked in the duskweave wheels that people may want, and you'll want to go into the final wheel on duskweave to be able to craft the bolts more efficiently.
+Note: This will give us the most skill points towards the spellthreads unlocked by duskweave tailoring to let us craft it for raiders as it's the primary spellthread for clothie dps, however it is not ideal for crafting the gear unlocked in those wheels.  If you're wanting to stick with tailoring as a guild crafter, let's plan beyond the first 80 points, there is potentially very good gear unlocked in the duskweave wheels that people may want, and you'll want to go into the final wheel on duskweave to be able to craft the bolts more efficiently and get an extra 20 skill points towards duskweave crafting.
 
 Alchemy - Flasks
 1. Fantastic Flasks, full wheel
@@ -275,3 +275,21 @@ Note: Scout's March is learned from Auralia Steelstrike in Hallowfell, so priori
 Jewelcrafting - Rings
 1. Jewelerycrafting, full wheel
 2. Rings, full wheel
+
+#### Mitsu
+Tailoring - Duskweave Embellishment
+1. From Dawn Till Dusk, full wheel
+2. Duskweave Tailoring, full wheel
+3. Quality Fabric, 10/30
+4. Weaving and Unraveling, 10/30
+
+Note: Duskthread lining drops from Rasha'nan in the raid, we may have to buy this one if it doesn't drop week 1
+
+#### Urban
+Tailoring - Dawnthread Embellishment, drops from delves
+Blacksmithing - Short Blades
+Leatherworking - Generic mail spark gear
+Enchant - Arathor Weapons, Authority of radiant power
+Engi - Explosives (potentially healer and aug pot)
+Scribe - Staves
+JC - Tools
