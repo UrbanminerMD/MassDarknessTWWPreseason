@@ -1,5 +1,6 @@
 # Mass Darkness Professions Pre Season Guide
 
+
 ## Table of Contents
 1. Introduction
 2. Sources of Knowledge Points
