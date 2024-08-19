@@ -299,3 +299,6 @@ Engi - Explosives (potentially healer and aug pot)
 Scribe - Staves
 
 JC - Tools
+
+#### Curtle
+Back up dawnweave embellishment <3
