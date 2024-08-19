@@ -95,7 +95,7 @@ Leatherworking - Generic Leather Spark Gear
 Alchemy - Potion Cauldron
 1. Potent Potions, full wheel
 2. Learn sub specialization Bulk Production but do not put any points into it
-3. Alechmical Mastery, full wheel
+3. Alchemical Mastery, full wheel
 4. Arathor's Spear wheel as far as you can get
 
 Notes: All the herb specific sub wheels of Alchemical Mastery contribute to the potion cauldron skill.  It is unlikely we will be able to craft three star cauldrons off the bat so don't stress.  Work on those herb wheels as you can, and then finish Bulk Production.  In the war within, potion cauldrons allow users to choose potions from among recipes the cauldron crafter knows.  You'll want to get started as soon as possible with the daily cooldown, and experiment with Arathor's Spear, as that will let you discover the two potential potions we want to use, Tempered Potion and Potion of Unwavering Focus.  The guild will provide the gold for the crystal cauldron which is available from several vendors.
@@ -207,7 +207,7 @@ Enchanting - Chest Armor
 2. Earthern Enchantments, full wheel
 3. Bolstered Breastplates, full wheel
 
-Note: The chest enchantments have been broken out into four separate enchantments instead of just a stat enchant like in dragonflight.  The int one is learned from the knowledge wheel, the healer enchant is purchased with acuity from Auditor Balwurz in Dornegal, the strength one is learned from the weekly event Awakening the machine and the agility one is learned from the weekly event The Theatre Troupe.  You'll want to make sure you get your rep up and hit 80 the first week so you have two shots at the recipes from the weekly event.
+Note: The chest enchantments have been broken out into four separate enchantments instead of just a stat enchant like in dragonflight.  Crystalline Radiance, the flat primary stat one, is learned from the knowledge wheel, the healer enchant is purchased with acuity from Auditor Balwurz in Dornegal, the strength one is learned from the weekly event Awakening the machine and the agility one is learned from the weekly event The Theatre Troupe.  You'll want to make sure you get your rep up and hit 80 the first week so you have two shots at the recipes from the weekly event.
 
 Inscription - Vantus Runes
 1. Archival Additions, full wheel
