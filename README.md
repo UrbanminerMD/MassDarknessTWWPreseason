@@ -279,9 +279,9 @@ Jewelcrafting - Rings
 #### Mitsu
 Tailoring - Duskweave Embellishment
 1. From Dawn Till Dusk, full wheel
-2. Duskweave Tailoring, full wheel
+2. Duskweave Tailoring, 25/30
 3. Quality Fabric, 10/30
-4. Weaving and Unraveling, 10/30
+4. Weaving and Unraveling, 15/30
 
 Note: Duskthread lining drops from Rasha'nan in the raid, we may have to buy this one if it doesn't drop week 1
 
