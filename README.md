@@ -287,9 +287,15 @@ Note: Duskthread lining drops from Rasha'nan in the raid, we may have to buy thi
 
 #### Urban
 Tailoring - Dawnthread Embellishment, drops from delves
+
 Blacksmithing - Short Blades
+
 Leatherworking - Generic mail spark gear
+
 Enchant - Arathor Weapons, Authority of radiant power
+
 Engi - Explosives (potentially healer and aug pot)
+
 Scribe - Staves
+
 JC - Tools
