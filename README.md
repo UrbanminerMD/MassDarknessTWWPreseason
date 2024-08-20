@@ -52,7 +52,7 @@ Inscription can make a soulbound item called treatises that can give you one kno
 When you craft a recipe for the first time you receive a knowledge point and a small amount of acuity.  You should aim to craft most if not all recipes taught by the trainers at least once.  Some professions have vastly more first time crafts than others so there is a large disparity here between professions like engineering (few) and leatherworking (a lot).
 
 #### Summary
-You should be able to get around 80 knowledge points the first two weeks assuming you can reach the necessary renown, you farm all treasures, and you're able to buy the city of threads item and a knowledge item from Lyrendal.  The following guides for where to put points assume you have 80 to spend which wont always be the case if your acuity is needed to buy recipes instead of points.
+You should be able to get around 80 knowledge points the first two weeks assuming you can reach the necessary renown, you farm all treasures, and you're able to buy the city of threads item and a knowledge item from Lyrendal.  The following guides for where to put points assume you have 80 to spend which will vary between professions and whether you need to spend acuity on recipes.
 
 ## Per Raider Cheat Sheet
 
