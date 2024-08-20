@@ -14,14 +14,15 @@
 <p>Please always feel free to reach out to me on discord @urbanminer if you have any questions.  If you've never done any crafting before and don't know how to find trainers, what knowledge points are, etc, please reach out and I'll walk you through the initial set up via screenshare.</p>
 
 ## Sources of Knowledge Points
-1. Renown: 10pt
-2. Lyrendal: 30pt (45 points for gatherers)
-3. Knowledge treasures: 24pt
-4. City of threads: 10pt
-5. Weekly work orders: 6pt
-6. Weekly world drops: 2pt
-7. Weekly rare gathers: 2pt
+1. Renown: 10pts
+2. Lyrendal: 30pts (45 points for gatherers)
+3. Knowledge treasures: 24ps
+4. City of threads: 10pts
+5. Weekly work orders: 6pts
+6. Weekly world drops: 2pts
+7. Weekly rare gathers: 2pts
 8. Weekly treatise: 1pt
+9. First Time Crafts: 10+ pts
 
 #### Renown
 Depending on the faction, at either 12 or 14 renown, you can buy a 10 knowledge point book from the renown quartermaster for 50 acuity.
@@ -47,8 +48,11 @@ As you level you'll see each zone has it's own unique generic treasure type that
 #### Weekly Treatise
 Inscription can make a soulbound item called treatises that can give you one knowledge point per week.  You should post a public crafting order for two thousand gold for each of your professions each of the first two weeks to get these knowledge points.  The guild will provide this gold if you need it.
 
+#### First Time Crafts
+When you craft a recipe for the first time you receive a knowledge point and a small amount of acuity.  You should aim to craft most if not all recipes taught by the trainers at least once.  Some professions have vastly more first time crafts than others so there is a large disparity here between professions like engineering (few) and leatherworking (a lot).
+
 #### Summary
-You should be able to get around 80 knowledge points the first two weeks assuming you can reach the necessary renown, you farm all treasures, and you're able to buy the city of threads item and 2 of 3 knowledge items from Lyrendal.  The following guides for where to put points assume you have 80 to spend which wont always be the case if your acuity is needed to buy recipes instead of points.
+You should be able to get around 80 knowledge points the first two weeks assuming you can reach the necessary renown, you farm all treasures, and you're able to buy the city of threads item and a knowledge items from Lyrendal.  The following guides for where to put points assume you have 80 to spend which wont always be the case if your acuity is needed to buy recipes instead of points.
 
 ## Per Raider Cheat Sheet
 
