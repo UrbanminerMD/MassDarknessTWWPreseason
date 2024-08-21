@@ -13,6 +13,8 @@
 
 <p>Please always feel free to reach out to me on discord @urbanminer if you have any questions.  If you've never done any crafting before and don't know how to find trainers, what knowledge points are, etc, please reach out and I'll walk you through the initial set up via screenshare.</p>
 
+<p>Leveling Professions Guide From Reddit: https://old.reddit.com/r/woweconomy/comments/1excu75/from_1100_professions_cost</p>
+
 ## Sources of Knowledge Points
 1. Renown: 10pts
 2. Lyrendal: 30pts (45 points for gatherers)
