@@ -51,7 +51,7 @@ As you level you'll see each zone has it's own unique generic treasure type that
 Inscription can make a soulbound item called treatises that can give you one knowledge point per week.  You should post a public crafting order for two thousand gold for each of your professions each of the first two weeks to get these knowledge points.  The guild will provide this gold if you need it.
 
 #### First Time Crafts
-When you craft a recipe for the first time you receive a knowledge point and a small amount of acuity.  You should aim to craft most if not all recipes taught by the trainers at least once.  Some professions have vastly more first time crafts than others so there is a large disparity here between professions like engineering (few) and leatherworking (a lot).
+When you craft a recipe for the first time you receive a knowledge point and a ~~small amount of acuity~~ (first time craft acuity has been removed just before early access launch).  You should aim to craft most if not all recipes taught by the trainers at least once.  Some professions have vastly more first time crafts than others so there is a large disparity here between professions like engineering (few) and leatherworking (a lot).
 
 #### Summary
 You should be able to get around 80 knowledge points the first two weeks assuming you can reach the necessary renown, you farm all treasures, and you're able to buy the city of threads item and a knowledge item from Lyrendal.  The following guides for where to put points assume you have 80 to spend which will vary between professions and whether you need to spend acuity on recipes.
